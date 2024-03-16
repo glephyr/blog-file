@@ -1,4 +1,4 @@
-baseurl: https://github.com/glephyr/Blog
+baseurl: https://github.com/glephyr/blog-file
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 7

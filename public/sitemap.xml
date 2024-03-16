@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://github.com/glephyr/Blog/zh-cn/sitemap.xml</loc>
+    <loc>http://localhost:1313/glephyr/blog-file/zh-cn/sitemap.xml</loc>
     
       <lastmod>2024-03-16T01:09:55+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://github.com/glephyr/Blog/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/glephyr/blog-file/en/sitemap.xml</loc>
     
   </sitemap>
   
