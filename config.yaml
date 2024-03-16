@@ -56,11 +56,11 @@ params:
 
     sidebar:
         compact: false
-        emoji: 🍥
+        
         subtitle: Look Homeward, Angel.
         avatar:
             enabled: true
-            local: false
+            local: true
             src: img/avatar.png
 
     article:
@@ -108,7 +108,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL: # 以后再看
+            serverURL: cappushino.space
             lang: zh-CN
             pageview: true
             search: false
@@ -122,7 +122,7 @@ params:
                 - url
             locale:
                 admin: Admin
-                placeholder: 流光忆庭
+                placeholder: 
 
         twikoo:
             envId:
