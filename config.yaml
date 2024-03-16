@@ -1,4 +1,4 @@
-baseurl: https://cappushino.space
+baseurl: https://github.com/glephyr/Blog
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 7

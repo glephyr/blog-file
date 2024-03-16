@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cappushino.space/en/categories/</loc>
+    <loc>https://github.com/glephyr/Blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://cappushino.space/categories/"
+                href="https://github.com/glephyr/Blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cappushino.space/en/categories/"
+                href="https://github.com/glephyr/Blog/en/categories/"
                 />
   </url><url>
-    <loc>https://cappushino.space/en/</loc>
+    <loc>https://github.com/glephyr/Blog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://cappushino.space/"
+                href="https://github.com/glephyr/Blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cappushino.space/en/"
+                href="https://github.com/glephyr/Blog/en/"
                 />
   </url><url>
-    <loc>https://cappushino.space/en/tags/</loc>
+    <loc>https://github.com/glephyr/Blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://cappushino.space/tags/"
+                href="https://github.com/glephyr/Blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cappushino.space/en/tags/"
+                href="https://github.com/glephyr/Blog/en/tags/"
                 />
   </url>
 </urlset>
