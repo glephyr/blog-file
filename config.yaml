@@ -1,4 +1,4 @@
-baseurl: https://github.com/glephyr/
+baseurl: https://glephyr.github.io/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 7

@@ -2,121 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/glephyr/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-16T01:09:55+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/glephyr/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/glephyr/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/111/</loc>
+    <loc>http://localhost:1313/p/111/</loc>
     <lastmod>2024-03-16T01:09:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-03-16T01:09:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/glephyr/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/glephyr/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/test-chinese/</loc>
+    <loc>http://localhost:1313/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/test/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/syntax/</loc>
+    <loc>http://localhost:1313/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/glephyr/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/glephyr/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/themes/</loc>
+    <loc>http://localhost:1313/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/themes/</loc>
+    <loc>http://localhost:1313/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/rich-content/</loc>
+    <loc>http://localhost:1313/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/placeholder-text/</loc>
+    <loc>http://localhost:1313/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/tag-with-whitespaces/</loc>
+    <loc>http://localhost:1313/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/categories/test-with-whitespaces/</loc>
+    <loc>http://localhost:1313/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/text/</loc>
+    <loc>http://localhost:1313/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/math-typesetting/</loc>
+    <loc>http://localhost:1313/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/tags/emoji/</loc>
+    <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/p/emoji-support/</loc>
+    <loc>http://localhost:1313/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glephyr/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/glephyr/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/glephyr/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
