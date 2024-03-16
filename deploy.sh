@@ -6,4 +6,4 @@ git add -A
 
 git commit -m 'deploy'
 
-git push git@github.com:glephyr/blog-file.git   # 向存储库推送
+git push git@github.com:glephyr/blog-file.git - main   # 向存储库推送
