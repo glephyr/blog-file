@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://cappushino.space
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 7
@@ -109,8 +109,8 @@ params:
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
             serverURL: # 以后再看
-            lang:zh-CN
-            pageview:true
+            lang: zh-CN
+            pageview: true
             search: false
             emoji:
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
