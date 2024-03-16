@@ -17,7 +17,7 @@ jobs:
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
-                  hugo-version: "0.115.2" # Hugo 版本
+                  hugo-version: 'latest' # Hugo 版本
                   extended: true # hugo插件版 Stack主题 必须启用
 
             - name: Cache resources # 缓存 resource 文件加快生成速度
@@ -36,9 +36,9 @@ jobs:
               with:
                   # 如果在同一个仓库下使用请使用 github_token 并注释 deploy_key
                   # github_token: ${{ secrets.GITHUB_TOKEN }}
-                  deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+                  # deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}  # 如果在同一个仓库请注释
 
-                  # 如果在同一个仓库请注释
+                 
                   external_repository: glephyr/Blog # 你的 GitHub page 仓库 example/example.github.io
 
                   publish_dir: ./public
