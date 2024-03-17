@@ -225,7 +225,7 @@ menu:
           params:
               icon: brand-bangumi
 
-        - identifier: bangumi
+        - identifier: weibo
           name: Weibo
           url: https://weibo.com/u/1419726751
           params:
