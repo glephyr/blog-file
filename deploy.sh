@@ -2,8 +2,10 @@ hugo #构造你的blog
 
 git init #初始化git
 
-git add -A
+git status
 
-git commit -m 'deploy'
+git add .
 
-git push git@github.com:glephyr/blog-file.git main   # 向存储库推送
+git commit -m "new"
+
+git push 
