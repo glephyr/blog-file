@@ -225,6 +225,13 @@ menu:
           params:
               icon: brand-bangumi
 
+        - identifier: bangumi
+          name: Weibo
+          url: https://weibo.com/u/1419726751
+          params:
+              icon: brand-weibo
+
+
 related:
     includeNewer: true
     threshold: 60
