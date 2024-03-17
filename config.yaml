@@ -218,6 +218,13 @@ menu:
           params:
               icon: brand-twitter
 
+        
+        - identifier: bangumi
+          name: Bangumi
+          url: https://bangumi.tv/user/natsukiyumiko
+          params:
+              icon: brand-bangumi
+
 related:
     includeNewer: true
     threshold: 60
