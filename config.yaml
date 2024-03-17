@@ -214,7 +214,7 @@ menu:
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/glephyr
           params:
               icon: brand-twitter
 
