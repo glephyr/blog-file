@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Sino</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 22 Mar 2024 23:20:53 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>断片</title>
+        <link>/categories/%E6%96%AD%E7%89%87/</link>
+        <pubDate>Fri, 22 Mar 2024 23:20:53 +0000</pubDate>
+        
+        <guid>/categories/%E6%96%AD%E7%89%87/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
