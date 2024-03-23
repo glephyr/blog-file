@@ -279,18 +279,6 @@
   </url><url>
     <loc>/zh-cn/en/page/links/</loc>
   </url><url>
-    <loc>/zh-cn/links/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/links/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/links/"
-                />
-  </url><url>
     <loc>/zh-cn/en/page/search/</loc>
   </url><url>
     <loc>/zh-cn/search/</loc>
