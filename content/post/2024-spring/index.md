@@ -7,7 +7,7 @@ author: "Sino"
 authorLink: ""
 license: ""
 tags: [""]
-categories: ["断片"]
+categories: ["Etude"]
 featuredImage: ""
 featuredImagePreview: ""
 summary: ""
@@ -142,7 +142,6 @@ AI Loseless Zoomer:
 只是心有不甘。
 
 仅仅是因为心有不甘。
-
 
 
 

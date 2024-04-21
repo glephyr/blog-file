@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>断片 on Sino&#39;s Blog</title>
-        <link>/zh-cn/categories/%E6%96%AD%E7%89%87/</link>
+        <link>//localhost:1313/zh-cn/categories/%E6%96%AD%E7%89%87/</link>
         <description>Recent content in 断片 on Sino&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Sino</copyright>
-        <lastBuildDate>Fri, 22 Mar 2024 23:20:53 +0000</lastBuildDate><atom:link href="/zh-cn/categories/%E6%96%AD%E7%89%87/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 22 Mar 2024 23:20:53 +0000</lastBuildDate><atom:link href="//localhost:1313/zh-cn/categories/%E6%96%AD%E7%89%87/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>春が訪れる気配</title>
-        <link>/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/</link>
+        <link>//localhost:1313/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/</link>
         <pubDate>Fri, 22 Mar 2024 23:20:53 +0000</pubDate>
         
-        <guid>/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/</guid>
-        <description>&lt;img src="/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/cover.jpg" alt="Featured image of post 春が訪れる気配" /&gt;&lt;p&gt;写下这个标题的时候，多少带着一些翻开新的一页的期望。&lt;/p&gt;
+        <guid>//localhost:1313/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/</guid>
+        <description>&lt;img src="//localhost:1313/zh-cn/p/%E6%98%A5%E3%81%8C%E8%A8%AA%E3%82%8C%E3%82%8B%E6%B0%97%E9%85%8D/cover.jpg" alt="Featured image of post 春が訪れる気配" /&gt;&lt;p&gt;写下这个标题的时候，多少带着一些翻开新的一页的期望。&lt;/p&gt;
 &lt;p&gt;希望一个新的个人站点，能赋予自己更多表达的欲望与勇气。&lt;/p&gt;
 &lt;p&gt;希望新的季节，标志着生活翻开新的篇章。&lt;/p&gt;
 &lt;p&gt;但这便是春日的陷阱。&lt;/p&gt;

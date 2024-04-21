@@ -1,5 +1,5 @@
 ---
-title: "断片"
+title: "Etude"
 description: "一些无法被分类的碎片文字。"
 slug: "test"
 image: "kakera.jpg"
