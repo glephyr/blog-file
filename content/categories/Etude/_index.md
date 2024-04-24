@@ -1,8 +1,8 @@
 ---
 title: "Etude"
-description: "一些无法被分类的碎片文字。"
+description: "文字的习作。"
 slug: "test"
-image: "kakera.jpg"
+image: "violin.png"
 style:
     background: "#2a9d8f"
     color: "#fff"

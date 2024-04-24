@@ -7,7 +7,7 @@ author: "Sino"
 authorLink: ""
 license: ""
 tags: [""]
-categories: ["Etude"]
+categories: ["Serenade"]
 featuredImage: ""
 featuredImagePreview: ""
 summary: ""
