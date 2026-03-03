@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/zh-cn/</loc>
-    <lastmod>2024-04-24T22:57:06+01:00</lastmod>
+    <lastmod>2026-03-04T02:11:31+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="/zh-cn/"
+                />
+  </url><url>
+    <loc>/zh-cn/post/</loc>
+    <lastmod>2026-03-04T02:11:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/post/"
                 />
   </url><url>
     <loc>/zh-cn/categories/</loc>
@@ -26,19 +39,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="/zh-cn/categories/"
-                />
-  </url><url>
-    <loc>/zh-cn/post/</loc>
-    <lastmod>2024-04-24T22:57:06+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/post/"
                 />
   </url><url>
     <loc>/zh-cn/categories/serenade/</loc>
@@ -285,6 +285,8 @@
                 hreflang="zh-cn"
                 href="/zh-cn/about/"
                 />
+  </url><url>
+    <loc>/zh-cn/categories/caprice/</loc>
   </url><url>
     <loc>/zh-cn/en/page/links/</loc>
   </url><url>
