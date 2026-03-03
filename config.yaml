@@ -60,7 +60,7 @@ params:
     sidebar:
         compact: false
         
-        subtitle: Look Homeward, Angel.
+        subtitle: すべてをなくした後、何が残るのだろう？ Look Homeward, Angel.
         avatar:
             enabled: true
             local: true

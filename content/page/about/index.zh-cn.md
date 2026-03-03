@@ -7,14 +7,14 @@ menu:
             icon: user
 ---
 
-不爱说话。角落生物。
+也许明日这个世界就将不再有我。
 
-> 我的生活从某种意义上说就是垃圾，而其中的残渣就是我的写作。
+又或许这个世界，曾永远有一个我。
 
+> 认识的任何人，都是以瞬乎出现瞬乎消失的方式存在的，什么人都不会固定在什么地方出现，人与人的关系像是星云与星云。
 
+Recent Activities:
 
-近期阅读：
-
-- 漫画：最强学生会长黑神
-- 书：巴黎评论 Vol.1
-- 剧：四重奏
+- 2026.2.15 | Roselia Asia Tour in Tokyo Day 2
+- 2026.2.28 | Bang Dream 10th Anniversary In the Name of Bang Dream
+- 2026.3.1 | It's MYGO vs. Ave Mujica Moment/Memory
