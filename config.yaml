@@ -60,7 +60,10 @@ params:
     sidebar:
         compact: false
         
-        subtitle: すべてをなくした後、何が残るのだろう？ Look Homeward, Angel.
+        subtitle: 
+            すべてをなくした後、何が残るのだろう？ <br>
+            <br>
+            Look Homeward, Angel.
         avatar:
             enabled: true
             local: true
@@ -251,6 +254,10 @@ markup:
         renderer:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
+        extensions:
+            strikethrough: true #开启删除线支持
+            table: true #开启表格支持
+            definitionList: true #开启定义列表支持
     tableOfContents:
         endLevel: 4
         ordered: true

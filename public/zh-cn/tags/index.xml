@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Sino&#39;s Blog</title>
-        <link>/zh-cn/tags/</link>
+        <link>//localhost:1313/zh-cn/tags/</link>
         <description>Recent content in Tags on Sino&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Sino</copyright>
-        <lastBuildDate>Wed, 04 Mar 2026 02:11:31 +0800</lastBuildDate><atom:link href="/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Mar 2026 02:11:31 +0800</lastBuildDate><atom:link href="//localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Event</title>
-        <link>/zh-cn/tags/event/</link>
+        <link>//localhost:1313/zh-cn/tags/event/</link>
         <pubDate>Wed, 04 Mar 2026 02:11:31 +0800</pubDate>
         
-        <guid>/zh-cn/tags/event/</guid>
+        <guid>//localhost:1313/zh-cn/tags/event/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>/zh-cn/tags/css/</link>
+        <link>//localhost:1313/zh-cn/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/css/</guid>
+        <guid>//localhost:1313/zh-cn/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>/zh-cn/tags/html/</link>
+        <link>//localhost:1313/zh-cn/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/html/</guid>
+        <guid>//localhost:1313/zh-cn/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>/zh-cn/tags/markdown/</link>
+        <link>//localhost:1313/zh-cn/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/markdown/</guid>
+        <guid>//localhost:1313/zh-cn/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>/zh-cn/tags/themes/</link>
+        <link>//localhost:1313/zh-cn/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/themes/</guid>
+        <guid>//localhost:1313/zh-cn/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>/zh-cn/tags/privacy/</link>
+        <link>//localhost:1313/zh-cn/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/privacy/</guid>
+        <guid>//localhost:1313/zh-cn/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>/zh-cn/tags/shortcodes/</link>
+        <link>//localhost:1313/zh-cn/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/shortcodes/</guid>
+        <guid>//localhost:1313/zh-cn/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>/zh-cn/tags/tag-with-whitespaces/</link>
+        <link>//localhost:1313/zh-cn/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/tag-with-whitespaces/</guid>
+        <guid>//localhost:1313/zh-cn/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>/zh-cn/tags/text/</link>
+        <link>//localhost:1313/zh-cn/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/text/</guid>
+        <guid>//localhost:1313/zh-cn/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>/zh-cn/tags/emoji/</link>
+        <link>//localhost:1313/zh-cn/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>/zh-cn/tags/emoji/</guid>
+        <guid>//localhost:1313/zh-cn/tags/emoji/</guid>
         <description></description>
         </item>
         

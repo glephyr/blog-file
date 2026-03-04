@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Etude on Sino&#39;s Blog</title>
-        <link>/zh-cn/categories/etude/</link>
+        <link>//localhost:1313/zh-cn/categories/etude/</link>
         <description>Recent content in Etude on Sino&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Sino</copyright>
-        <lastBuildDate>Sat, 20 Apr 2024 16:58:26 +0100</lastBuildDate><atom:link href="/zh-cn/categories/etude/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Apr 2024 16:58:26 +0100</lastBuildDate><atom:link href="//localhost:1313/zh-cn/categories/etude/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>April｜四月，仿佛有雪</title>
-        <link>/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/</link>
+        <link>//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/</link>
         <pubDate>Sat, 20 Apr 2024 16:58:26 +0100</pubDate>
         
-        <guid>/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/</guid>
-        <description>&lt;img src="/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/cover.png" alt="Featured image of post April｜四月，仿佛有雪" /&gt;&lt;p&gt;好久不见，又或是意外来得早的一次更新。&lt;/p&gt;
+        <guid>//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/</guid>
+        <description>&lt;img src="//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/cover.png" alt="Featured image of post April｜四月，仿佛有雪" /&gt;&lt;p&gt;好久不见，又或是意外来得早的一次更新。&lt;/p&gt;
 &lt;p&gt;没想到翻翻时间差不多更好是一个月过去。如果能坚持每个月为自己写些东西也未尝不是一件好事。&lt;/p&gt;
 &lt;p&gt;想来想去在乏善可陈的生活里，值得写的也只有关于书影音的一些记录了。但如果要以博客的形式将之与私人记录区分开，大概文字里还是要多些雕琢的成分吧。&lt;/p&gt;
 &lt;p&gt;为什么要给自己增加无谓的麻烦呢（&lt;/p&gt;
 &lt;h2 id=&#34;bakuman与少年漫画&#34;&gt;Bakuman与少年漫画&lt;/h2&gt;
 &lt;p&gt;近期主要在看漫画。虽然说是近期，不过补漫画其实是去年开始的事。ios上Aidoku的阅读体验实在是太好了，虽然贵是贵了点，但在有空集中阅读的时候还是相当值得的。&lt;/p&gt;
 &lt;p&gt;意外的是最近都在看少年漫画。去年陆续补了猎人，又补了Bakuman，连现在在读的黑神都是Jump的副刊上连载的，要说也算是一种热血少年漫了。上一次看少年漫画的记忆还要追溯到中考前看通灵王，又或者是高考前补完了推理之绊。很奇妙地，阅读少年漫画的时间总是需要打一些鸡血的节点。虽然不认为自己身上还有什么能燃烧起来的地方，但那些无法以理性来衡量的，一途（いちず）地为了目标不惜头破血流的，只能称之为少年意气的东西，还是能给人一些鼓舞。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman.jpg&#34;
 	width=&#34;380&#34;
 	height=&#34;600&#34;
-	srcset=&#34;/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman_hub1abf0f09e4235c31ba1bce1f0e95c1c_95205_480x0_resize_q75_box.jpg 480w, /zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman_hub1abf0f09e4235c31ba1bce1f0e95c1c_95205_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman_hub1abf0f09e4235c31ba1bce1f0e95c1c_95205_480x0_resize_q75_box.jpg 480w, //localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/bakuman_hub1abf0f09e4235c31ba1bce1f0e95c1c_95205_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;私心给苍树老师，这一对是整个故事中最喜欢的角色了&#34;
@@ -58,10 +58,10 @@
 &lt;p&gt;但即使少年漫画面临着青黄不接（这可能也是读者的傲慢）的当下与未来依旧人气不减，依旧说明着人们依然需要少年漫画。就像那句话所说。&lt;/p&gt;
 &lt;p&gt;——宇宙奥秘，就是自信。&lt;/p&gt;
 &lt;h2 id=&#34;莉香与东京爱情故事&#34;&gt;莉香与东京爱情故事&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;562&#34;
-	srcset=&#34;/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo_hu0dfdd4a9ebe9da086941f6f4d9b14445_89486_480x0_resize_q75_box.jpg 480w, /zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo_hu0dfdd4a9ebe9da086941f6f4d9b14445_89486_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;//localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo_hu0dfdd4a9ebe9da086941f6f4d9b14445_89486_480x0_resize_q75_box.jpg 480w, //localhost:1313/zh-cn/p/april%E5%9B%9B%E6%9C%88%E4%BB%BF%E4%BD%9B%E6%9C%89%E9%9B%AA/tokyo_hu0dfdd4a9ebe9da086941f6f4d9b14445_89486_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;没有听过突如其来的爱情故事，就不算到了东京。&#34;

@@ -2,274 +2,274 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>//localhost:1313/en/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/"
+                href="//localhost:1313/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="//localhost:1313/en/"
                 />
   </url><url>
-    <loc>/en/archives/</loc>
+    <loc>//localhost:1313/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/archives/"
+                href="//localhost:1313/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archives/"
+                href="//localhost:1313/en/archives/"
                 />
   </url><url>
-    <loc>/en/page/</loc>
+    <loc>//localhost:1313/en/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/page/"
+                href="//localhost:1313/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/page/"
+                href="//localhost:1313/en/page/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>//localhost:1313/en/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/"
+                href="//localhost:1313/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>/en/tags/css/</loc>
+    <loc>//localhost:1313/en/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/css/"
+                href="//localhost:1313/zh-cn/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/css/"
+                href="//localhost:1313/en/tags/css/"
                 />
   </url><url>
-    <loc>/en/tags/html/</loc>
+    <loc>//localhost:1313/en/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/html/"
+                href="//localhost:1313/zh-cn/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/html/"
+                href="//localhost:1313/en/tags/html/"
                 />
   </url><url>
-    <loc>/en/tags/markdown/</loc>
+    <loc>//localhost:1313/en/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/markdown/"
+                href="//localhost:1313/zh-cn/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/markdown/"
+                href="//localhost:1313/en/tags/markdown/"
                 />
   </url><url>
-    <loc>/en/p/markdown-syntax-guide/</loc>
+    <loc>//localhost:1313/en/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-  </url><url>
-    <loc>/en/categories/syntax/</loc>
+    <loc>//localhost:1313/en/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/syntax/"
+                href="//localhost:1313/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/syntax/"
+                href="//localhost:1313/en/post/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>//localhost:1313/en/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/"
+                href="//localhost:1313/zh-cn/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="//localhost:1313/en/categories/syntax/"
                 />
   </url><url>
-    <loc>/en/tags/themes/</loc>
+    <loc>//localhost:1313/en/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/themes/"
+                href="//localhost:1313/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/themes/"
+                href="//localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>/en/categories/themes/</loc>
+    <loc>//localhost:1313/en/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/themes/"
+                href="//localhost:1313/zh-cn/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/themes/"
+                href="//localhost:1313/en/tags/themes/"
                 />
   </url><url>
-    <loc>/en/tags/privacy/</loc>
+    <loc>//localhost:1313/en/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/zh-cn/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/categories/themes/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/privacy/"
+                href="//localhost:1313/zh-cn/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/privacy/"
+                href="//localhost:1313/en/tags/privacy/"
                 />
   </url><url>
-    <loc>/en/p/rich-content/</loc>
+    <loc>//localhost:1313/en/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/shortcodes/</loc>
+    <loc>//localhost:1313/en/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/shortcodes/"
+                href="//localhost:1313/zh-cn/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/shortcodes/"
+                href="//localhost:1313/en/tags/shortcodes/"
                 />
   </url><url>
-    <loc>/en/p/placeholder-text/</loc>
+    <loc>//localhost:1313/en/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/tag-with-whitespaces/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/tag-with-whitespaces/"
-                />
-  </url><url>
-    <loc>/en/categories/test/</loc>
+    <loc>//localhost:1313/en/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/test/"
+                href="//localhost:1313/zh-cn/tags/tag-with-whitespaces/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/test/"
+                href="//localhost:1313/en/tags/tag-with-whitespaces/"
                 />
   </url><url>
-    <loc>/en/categories/test-with-whitespaces/</loc>
+    <loc>//localhost:1313/en/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/categories/test-with-whitespaces/"
+                href="//localhost:1313/zh-cn/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/test-with-whitespaces/"
+                href="//localhost:1313/en/categories/test/"
                 />
   </url><url>
-    <loc>/en/tags/text/</loc>
+    <loc>//localhost:1313/en/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/text/"
+                href="//localhost:1313/zh-cn/categories/test-with-whitespaces/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/text/"
+                href="//localhost:1313/en/categories/test-with-whitespaces/"
                 />
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>//localhost:1313/en/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/zh-cn/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/text/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/about/"
+                href="//localhost:1313/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="//localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>/en/links/</loc>
+    <loc>//localhost:1313/en/links/</loc>
   </url><url>
-    <loc>/en/search/</loc>
+    <loc>//localhost:1313/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/search/"
+                href="//localhost:1313/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/search/"
+                href="//localhost:1313/en/search/"
                 />
   </url>
 </urlset>
